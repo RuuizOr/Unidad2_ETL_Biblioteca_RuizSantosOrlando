@@ -1,7 +1,7 @@
 REPORTE DE EJECUCION - ETL BIBLIOTECA
 =============================================
 Nombre del alumno: Orlando Ruiz Santos
-Fecha y hora de ejecucion: 2026-07-05 11:05:17
+Fecha y hora de ejecucion: 2026-07-05 11:19:38
 Archivo procesado: prestamos_biblioteca_100.csv
 Filas leidas: 100
 Filas cargadas: 98
