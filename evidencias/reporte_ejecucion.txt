@@ -1,0 +1,13 @@
+REPORTE DE EJECUCION - ETL BIBLIOTECA
+=============================================
+Nombre del alumno: Orlando Ruiz Santos
+Fecha y hora de ejecucion: 2026-07-05 11:05:17
+Archivo procesado: prestamos_biblioteca_100.csv
+Filas leidas: 100
+Filas cargadas: 98
+Filas rechazadas: 2
+Estado final: FINALIZADO_CON_ERRORES
+
+Errores detectados:
+  - id_prestamo 5002 (fila CSV 101): id_prestamo duplicado
+  - id_prestamo 5099 (fila CSV 100): total_multa incorrecto (esperado=70, recibido=40)
